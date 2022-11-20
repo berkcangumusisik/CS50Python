@@ -28,3 +28,28 @@ Harvard CS50 derslerinden etkilenerek başladığım CS50 Python eğitimi de har
 * Making Faces
 * Einstein
 * Tip Calculator
+
+# 1.Hafta
+**Derste Bahsedilen Konular**
+* Koşullu ifadeler
+* Mantıksal operatörler
+* Karşılaştırma operatörleri
+* if-elif-else
+
+**Problem Setleri**
+* Deep Thought
+* Home Federal Savings Bank
+* File Extensions
+* Math Interpreter
+* Meal Time
+
+
+# 2.Hafta
+**Derste Bahsedilen Konular**
+
+* while Döngüsü
+* for Döngüsü
+* len() Fonksiyonu
+* range() Fonksiyonu
+* Listeler
+* Dictionary
