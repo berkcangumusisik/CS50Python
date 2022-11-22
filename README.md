@@ -66,4 +66,4 @@ Harvard CS50 derslerinden etkilenerek başladığım CS50 Python eğitimi de har
 - Hata Yönetimi
 - Value Errors
 - Runtime Errors
-* try - catch - else
+- try - catch - else
