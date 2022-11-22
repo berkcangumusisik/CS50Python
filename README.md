@@ -53,3 +53,17 @@ Harvard CS50 derslerinden etkilenerek başladığım CS50 Python eğitimi de har
 * range() Fonksiyonu
 * Listeler
 * Dictionary
+
+**Problem Setleri**
+* camelCase
+* Coke Machine
+* Just setting up my twttr
+* Vanity Plates
+* Nutrition Facts
+
+# 2.Hafta
+**Derste Bahsedilen Konular**
+- Hata Yönetimi
+- Value Errors
+- Runtime Errors
+* try - catch - else
