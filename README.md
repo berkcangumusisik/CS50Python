@@ -61,9 +61,26 @@ Harvard CS50 derslerinden etkilenerek başladığım CS50 Python eğitimi de har
 * Vanity Plates
 * Nutrition Facts
 
-# 2.Hafta
+# 3.Hafta
 **Derste Bahsedilen Konular**
 - Hata Yönetimi
 - Value Errors
 - Runtime Errors
 - try - catch - else
+
+**Problem Setleri**
+- Fuel Gauge
+- Felipe’s Taqueria
+- Grocery List
+- Outdated
+
+# 4.Hafta
+**Derste Bahsedilen Konular**
+- Kütüphaneler
+- Random
+- İstatistik
+- Komut Satırı Argümanları
+- Dilim
+- Paketler
+- API'ler
+- Kendi Kitaplıklarınızı Oluşturun
