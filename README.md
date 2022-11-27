@@ -84,3 +84,12 @@ Harvard CS50 derslerinden etkilenerek başladığım CS50 Python eğitimi de har
 - Paketler
 - API'ler
 - Kendi Kitaplıklarınızı Oluşturun
+
+**Problem Setleri**
+
+- Emojize
+- Frank, Ian and Glen’s Letters
+- Adieu, Adieu
+- Guessing Game
+- Little Professor
+- Bitcoin Price Index
