@@ -93,3 +93,12 @@ Harvard CS50 derslerinden etkilenerek başladığım CS50 Python eğitimi de har
 - Guessing Game
 - Little Professor
 - Bitcoin Price Index
+
+
+# 5.Hafta
+**Derste Bahsedilen Konular**
+- Unit Test
+- Assert
+- Pytest
+- Dizeleri Test Etme
+- Testleri Klasörler Halinde Düzenleme
