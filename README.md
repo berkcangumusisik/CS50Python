@@ -102,3 +102,9 @@ Harvard CS50 derslerinden etkilenerek başladığım CS50 Python eğitimi de har
 - Pytest
 - Dizeleri Test Etme
 - Testleri Klasörler Halinde Düzenleme
+
+**Problem Setleri**
+- Testing my twittr
+- Back to the Bank
+- Re-requesting a Vanity Plate
+- Refueling
