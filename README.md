@@ -108,3 +108,25 @@ Harvard CS50 derslerinden etkilenerek başladığım CS50 Python eğitimi de har
 - Back to the Bank
 - Re-requesting a Vanity Plate
 - Refueling
+
+
+# 6.Hafta
+**Derste Bahsedilen Konular**
+- Dosya İşlemleri
+- open
+- with
+- CSV'ler
+- PIL
+
+**Problem Setleri**
+- Lines of Code
+- Pizza Py
+- Scourgify
+- CS50 P-Shirt
+
+# 7.Hafta
+**Derste Bahsedilen Konular**
+- Düzenli ifadeler
+- Büyük küçük harf duyarlılığı
+- Kullanıcı Girişini Temizleme
+- Kullanıcı Girdisini Çıkarma
