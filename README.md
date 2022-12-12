@@ -130,3 +130,10 @@ Harvard CS50 derslerinden etkilenerek başladığım CS50 Python eğitimi de har
 - Büyük küçük harf duyarlılığı
 - Kullanıcı Girişini Temizleme
 - Kullanıcı Girdisini Çıkarma
+
+**Problem Setleri**
+- NUMB3RS
+- Watch on YouTube
+- Working 9 to 5
+- Regular, um, Expressions
+- Response Validation
