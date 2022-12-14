@@ -137,3 +137,18 @@ Harvard CS50 derslerinden etkilenerek başladığım CS50 Python eğitimi de har
 - Working 9 to 5
 - Regular, um, Expressions
 - Response Validation
+
+# 8.Hafta
+**Derste Bahsedilen Konular**
+- Nesne yönelimli programlama
+- Sınıflar
+- raise
+- Sınıf Yöntemleri
+- Statik Yöntemler
+- Miras
+- Operatör Aşırı Yüklemesi
+
+**Problem Setleri**
+- Seasons of Love
+- Cookie Jar
+- CS50 Shirtificate
