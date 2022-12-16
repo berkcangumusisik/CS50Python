@@ -152,3 +152,21 @@ Harvard CS50 derslerinden etkilenerek başladığım CS50 Python eğitimi de har
 - Seasons of Love
 - Cookie Jar
 - CS50 Shirtificate
+
+
+# 9.Hafta
+**Derste Bahsedilen Konular**
+- set
+- Global Değişkenler
+- Sabitler
+- Tip Kontrolü
+- Docstrings
+- argparse
+- Unpacking
+- args and kwargs
+- map
+- List Comprehensions
+- filter
+- Dictionary Comprehensions
+- enumerate
+- Generators and Iterators
